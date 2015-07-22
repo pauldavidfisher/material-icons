@@ -8,7 +8,7 @@ My Workflow is basically this:
 
 1. I create all my icons in separate layers on top of my template in Inkscape
 2. When happy I export the icons to separate files using my script
-3. I edit the exported in Inkscape again to convert everything into a single path
+3. I edit the exported in Inkscape again to convert everything into a single path, then run svgcleaner on it
 
 You'll find everything from these steps in this repository
 
